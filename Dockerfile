@@ -1,4 +1,4 @@
 FROM node:alpine
 WORKDIR /app
 COPY . .
-RUN yarn build
+RUN yarn install && yarn build
