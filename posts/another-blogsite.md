@@ -28,4 +28,4 @@ Do check it out.
 Random thoughts, mostly. This will just be a place where I can organize my thoughts about dumb things that
 I will never get answers to.
 
-This will most likely contain hot takes and terrible opinions. Good thing it's self-hosted. Fight me.
+This will most likely contain hot takes and terrible opinions. Good thing it's self-hosted, right? Fight me!
