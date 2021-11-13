@@ -1,3 +1,3 @@
 ---
-subtext: Eyzi's collection of my bad opinions
+subtext: Eyzi's collection of bad opinions
 ---
