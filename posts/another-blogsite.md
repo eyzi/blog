@@ -3,7 +3,7 @@ title: Another Blogsite
 date: 2021-11-12
 author: Eyzi
 avatar: https://cdn.eyzi.dev/avatar.png
-twitter: '@TheEyzi'
+github: 'eyzi'
 ---
 
 How many blogsites will I make before I'm satisfied?
@@ -35,10 +35,12 @@ get answers to. I like to think about things, even the obvious ones we
 all take for granted. I always try to understand the other side of the
 argument even when I already have a firm opinion on something.
 
-> Warning: Will most likely contain a lot of hot takes and terrible opinions.
+<span style="font-weight:600;color:#c23030;">Warning:</span> Will most
+likely contain a lot of hot takes and terrible opinions
 
 ## How is this made
 
-Please check out the [official vitepress blog repository](https://github.com/vuejs/blog)!
+Please check out the
+[official vitepress blog repository](https://github.com/vuejs/blog)!
 
 It lets me create posts using markdown files. It's great. VueJS is great.

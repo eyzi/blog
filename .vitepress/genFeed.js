@@ -32,8 +32,11 @@ getPosts(true).forEach((post) => {
     author: [
       {
         name: post.data.author,
-        link: post.data.twitter
+        twitter_link: post.data.twitter
           ? `https://twitter.com/${post.data.twitter}`
+          : undefined,
+        github_link: post.data.github
+          ? `https://github.com//${post.data.github}`
           : undefined
       }
     ],
