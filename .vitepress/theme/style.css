@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
-  --c-brand: #c76363;
-  --c-brand-light: #d47171;
+  --c-brand: #cc3131;
+  --c-brand-light: #d43f3f;
 }
 
 nav img {
