@@ -12,20 +12,33 @@ How many blogsites will I make before I'm satisfied?
 
 ## Answer
 
-I will never be satisfied
+All of them
 
-## But why?
+## Just tweet bro
 
-For the longest time, I have been thinking of creating a new personal blog with either Vuepress or ViteJS.
-Guess what? I can make one with _both_ of them. I don't even have to choose so that's cool.
+It's a bit difficult to use social media platforms as a blogging site,
+at least for me. For one, I will have to conform to the content rules
+of the websites. Not that I seek to break them, but it does limit what
+I can talk about. I like the idea of having my own place for my own thoughts.
 
-I end up just copying the content from the original repository instead of forking it because I didn't want
-to work on a new repository for this, but this is fully based on [the original vitepress blog repository](https://github.com/vuejs/blog).
-Do check it out.
+I do use a certain microblogging site for short posts. I won't say which
+one it is, but it's a relatively small and old one. My friends and I
+used to use it a lot before we all migrated to Facebook and Twitter,
+but it has become sort of a sanctuary where I _publicly_ vent without
+the fear of being judged.
 
-## Topics
+## What's here
 
-Random thoughts, mostly. This will just be a place where I can organize my thoughts about dumb things that
-I will never get answers to.
+My posts will usually be random things. This blog will just be a place
+where I can organize my thoughts about dumb things that I will never
+get answers to. I like to think about things, even the obvious ones we
+all take for granted. I always try to understand the other side of the
+argument even when I already have a firm opinion on something.
 
-This will most likely contain hot takes and terrible opinions. Good thing it's self-hosted, right? Fight me!
+> Warning: Will most likely contain a lot of hot takes and terrible opinions.
+
+## How is this made
+
+Please check out the [official vitepress blog repository](https://github.com/vuejs/blog)!
+
+It lets me create posts using markdown files. It's great. VueJS is great.
