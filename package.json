@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "vitepress",
     "build": "vitepress build --mpa && node ./.vitepress/genFeed",
+    "release": "npx standard-version --sign",
     "serve": "vitepress serve"
   },
   "devDependencies": {
@@ -12,6 +13,7 @@
     "cheap-watch": "^1.0.3",
     "feed": "^4.2.1",
     "gray-matter": "^4.0.2",
+    "standard-version": "^9.3.2",
     "vitepress": "0.20.1"
   },
   "dependencies": {
