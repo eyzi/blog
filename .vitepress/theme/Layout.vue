@@ -11,11 +11,7 @@
           />
         </a>
         <div class="text-base text-gray-500 leading-5">
-          <a
-            class="hover:text-gray-700"
-            href="https://eyzi.dev"
-            target="_blank"
-            rel="noopener"
+          <a class="hover:text-gray-700" href="https://eyzi.dev" rel="noopener"
             >Website →</a
           >
         </div>
