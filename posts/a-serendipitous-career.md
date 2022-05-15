@@ -139,9 +139,10 @@ With that, I landed a job at one of the biggest banks as a software
 developer. I am getting paid yet again double of my previous job. Life
 is well. Money is not a problem. Workload is not a problem. I may very
 well come across another challenge that I can't foresee. I strongly
-doubt it, but I'll deal with it when that happens. Right now, I am
-satisfied. I would even consider this as a dream job. This is all I've
-ever wanted to do for a living.
+doubt it, but I'll deal with it when that happens. As of writing this
+post, I have just passed my first year with the company. It is still
+nothing short of a dream job. This is all I've ever wanted to do for a
+living.
 
 It's crazy how everything fell into place the way they did. I was
 satisfied with every job I had in my programming career. What lead me
