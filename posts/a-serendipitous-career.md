@@ -129,20 +129,19 @@ fact, there were two.
 
 I got calls back from two of the biggest international companies in the
 same day. I went through both applications. Got through all the
-interviews. The next several weeks was me waiting which one I'll get
-accepted in. Or if one of them will actually accept me at all. Imagine
-my surprised when I got accepted for both, and both calls in the same
-day too. This was a surreal moment, but still, I had to choose only
-one.
+interviews. The next several weeks were me waiting which one I'll get
+accepted in. Or if I'll get accepted in one at all. Imagine my surprise
+when I got accepted for both, again in same day. This was a surreal
+moment, but still, I had to choose between the two.
 
 With that, I landed a job at one of the biggest banks as a software
 developer. I am getting paid yet again double of my previous job. Life
 is well. Money is not a problem. Workload is not a problem. I may very
 well come across another challenge that I can't foresee. I strongly
 doubt it, but I'll deal with it when that happens. As of writing this
-post, I have just passed my first year with the company. It is still
-nothing short of a dream job. This is all I've ever wanted to do for a
-living.
+post, I have just passed my first year with the company. I am well
+cared for. I'm learning and improving a *whole* lot. This is all I've
+ever wanted to do for a living.
 
 It's crazy how everything fell into place the way they did. I was
 satisfied with every job I had in my programming career. What lead me
