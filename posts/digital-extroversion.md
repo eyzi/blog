@@ -72,9 +72,12 @@ Could it be the anonymity? The abstraction of reality I get online?
 Could I be just as enthusiastic about being around other people if the
 real life dynamic is similar to that on the internet? I would lean more
 towards no, but who knows? All I know is that this is just the way I am
-and probably always will be. I'm certain that many others find
-themselves in the same situation as I am and it would be interesting
-to know why that happens exactly.
+and probably always will be.
+
+I'm certain that many others find themselves in the same situation as I
+am. I can't say that being an extrovert online can cure or improve
+social introvertness. That's definitely not the case with me. It would
+be interesting to know why this happens exactly, though.
 
 But I wouldn't sweat about chasing after the answer. I quite enjoy not
 knowing, weirdly enough. That way, I can dismiss it as yet another
