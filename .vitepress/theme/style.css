@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
-  --c-brand: #cc3131;
-  --c-brand-light: #d43f3f;
+  --c-brand: #f25e5e;
+  --c-brand-light: #f25e5e;
   --text: #ffffff;
   --background: #232528;
 }
@@ -35,19 +35,19 @@ p img {
 .prose h4,
 .prose h5,
 .prose h6 {
-  color: #f15b5b;
+  color: #f25e5e;
 }
 
 .prose p a {
-  color: #f18989;
+  color: #f25e5e;
 }
 
 .prose p strong {
-  color: #e7aa70;
+  color: #e44d4d;
 }
 
 .prose blockquote p {
-  color: #e48a8a;
+  color: #f25e5e;
 }
 
 .link {
