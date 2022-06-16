@@ -10,8 +10,8 @@
             src="/avatar.png"
           />
         </a>
-        <div class="text-base text-gray-500 leading-5">
-          <a class="hover:text-gray-700" href="https://eyzi.dev" rel="noopener"
+        <div class="text-base text-gray-300 leading-5">
+          <a class="hover:text-gray-400" href="https://eyzi.dev" rel="noopener"
             >Website →</a
           >
         </div>

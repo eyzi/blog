@@ -28,7 +28,7 @@ const prevPost = computed(() => posts[findCurrentIndex() + 1])
           text-3xl
           leading-9
           font-extrabold
-          text-gray-900
+          text-white
           tracking-tight
           sm:text-4xl sm:leading-10
           md:text-5xl md:leading-14
@@ -64,7 +64,7 @@ const prevPost = computed(() => posts[findCurrentIndex() + 1])
         "
       >
         <div v-if="nextPost" class="py-8">
-          <h2 class="text-xs tracking-wide uppercase text-gray-500">
+          <h2 class="text-xs tracking-wide uppercase text-gray-300">
             Next Article
           </h2>
           <div class="link">
@@ -72,7 +72,7 @@ const prevPost = computed(() => posts[findCurrentIndex() + 1])
           </div>
         </div>
         <div v-if="prevPost" class="py-8">
-          <h2 class="text-xs tracking-wide uppercase text-gray-500">
+          <h2 class="text-xs tracking-wide uppercase text-gray-300">
             Previous Article
           </h2>
           <div class="link">

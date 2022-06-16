@@ -5,6 +5,12 @@
 :root {
   --c-brand: #cc3131;
   --c-brand-light: #d43f3f;
+  --text: #ffffff;
+  --background: #232528;
+}
+
+body {
+  background-color: var(--background) !important;
 }
 
 nav img {
@@ -17,6 +23,31 @@ p img {
 
 .prose hr {
   border-top: 1px solid #e5e7eb;
+}
+
+.prose p {
+  color: var(--text);
+}
+
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6 {
+  color: #f15b5b;
+}
+
+.prose p a {
+  color: #f18989;
+}
+
+.prose p strong {
+  color: #e7aa70;
+}
+
+.prose blockquote p {
+  color: #e48a8a;
 }
 
 .link {

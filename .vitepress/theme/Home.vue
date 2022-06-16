@@ -19,13 +19,10 @@ import posts from '../metadata.json'
       >
         {{ $frontmatter.title }}
       </h1>
-      <p class="text-lg leading-7 text-gray-500">{{ $frontmatter.subtext }}</p>
+      <p class="text-lg leading-7 text-gray-400">{{ $frontmatter.subtext }}</p>
     </div>
     <ul class="divide-y divide-gray-200">
-      <li
-        class="py-12"
-        v-for="{ title, href, date, excerpt } of posts"
-      >
+      <li class="py-12" v-for="{ title, href, date, excerpt } of posts">
         <article
           class="
             space-y-2
@@ -36,11 +33,11 @@ import posts from '../metadata.json'
           <div class="space-y-5 xl:col-span-3">
             <div class="space-y-6">
               <h2 class="text-2xl leading-8 font-bold tracking-tight">
-                <a class="text-gray-900" :href="href">{{ title }}</a>
+                <a class="text-white" :href="href">{{ title }}</a>
               </h2>
               <div
                 v-if="excerpt"
-                class="prose max-w-none text-gray-500"
+                class="prose max-w-none text-gray-300"
                 v-html="excerpt"
               ></div>
             </div>
